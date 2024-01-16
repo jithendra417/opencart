@@ -1,0 +1,410 @@
+21:45:50.935 [TestNG-tests-2] ERROR TestCases.TC_001_accountregistration - test failed
+21:45:53.456 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:45:53.560 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:45:54.124 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:45:54.321 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:45:54.451 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:45:54.593 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:45:54.730 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:45:57.480 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:45:57.489 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:45:57.664 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***login***
+21:45:58.229 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:45:58.472 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:45:58.571 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:45:58.914 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:45:59.987 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:46:01.026 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+21:46:01.904 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+21:46:01.904 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+21:46:05.159 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:46:05.160 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:46:05.283 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:46:05.748 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:46:05.957 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:46:06.048 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:46:06.114 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:46:07.177 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:46:11.655 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:46:11.773 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:46:12.476 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:46:12.637 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:46:12.762 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:46:12.940 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:46:13.048 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:46:19.342 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+21:46:20.187 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+21:46:20.187 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+21:46:25.312 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:46:25.313 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:46:25.444 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:46:25.941 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:46:26.139 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:46:26.249 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:46:26.402 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:46:27.475 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:47:09.472 [TestNG-tests-2] ERROR TestCases.TC_001_accountregistration - test failed
+21:47:14.025 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:47:14.028 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:47:14.172 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***login***
+21:47:14.734 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:47:14.957 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:47:15.034 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:47:15.102 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:47:16.034 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+18:25:13.926 [TestNG-tests-2] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:25:13.926 [TestNG-tests-1] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:25:14.086 [TestNG-tests-2] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:25:14.126 [TestNG-tests-1] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:25:29.175 [TestNG-tests-2] ERROR TestCases.TC_001_accountregistration - test failed
+18:25:44.173 [TestNG-tests-1] ERROR TestCases.TC_001_accountregistration - test failed
+18:25:47.132 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:25:47.133 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:25:47.133 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:25:47.133 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:25:47.453 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***login***
+18:25:47.591 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***login***
+18:25:52.097 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:26:01.741 [TestNG-tests-1] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:26:01.741 [TestNG-tests-2] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:26:01.913 [TestNG-tests-1] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:26:01.977 [TestNG-tests-2] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:26:17.081 [TestNG-tests-1] ERROR TestCases.TC_001_accountregistration - test failed
+18:26:17.170 [TestNG-tests-2] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+18:26:19.035 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:26:19.036 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:26:19.110 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***login***
+18:26:19.544 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:26:19.647 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:26:19.702 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:26:19.753 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+18:26:20.637 [TestNG-tests-1] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+18:29:17.192 [TestNG-tests-2] ERROR TestCases.TC_001_accountregistration - test failed
+18:29:23.376 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:29:23.378 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:29:23.560 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***login***
+18:29:24.251 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:29:24.415 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:29:24.490 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:29:24.606 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+18:29:25.430 [TestNG-tests-2] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+18:32:12.407 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:32:12.425 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:32:12.513 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:32:59.172 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:32:59.198 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:32:59.289 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:32:59.618 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:32:59.726 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:32:59.804 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:32:59.858 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+18:33:00.502 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+18:33:44.465 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:33:44.634 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:33:44.943 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+18:33:45.051 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+18:33:45.107 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+18:33:45.185 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+18:33:45.237 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+18:33:51.347 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+18:33:51.900 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+18:33:51.901 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+18:33:53.766 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:33:53.767 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:33:53.833 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:33:54.177 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:33:54.270 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:33:54.331 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:33:54.380 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+18:33:55.016 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+18:35:57.334 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:35:57.355 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:35:57.451 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:37:07.989 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:37:08.014 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:37:08.144 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:37:08.466 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:37:08.592 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:37:08.652 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:37:08.736 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+18:37:09.360 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+18:37:26.733 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:37:26.847 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:37:27.160 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+18:37:27.235 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+18:37:27.294 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+18:37:27.370 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+18:37:27.422 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+18:37:33.542 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+18:37:33.965 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+18:37:33.965 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+18:37:35.930 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:37:35.931 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:37:36.003 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:37:36.351 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:37:36.448 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:37:36.502 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:37:36.556 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+18:37:37.234 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+18:38:00.777 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:38:00.884 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:38:01.181 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+18:38:01.267 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+18:38:01.327 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+18:38:01.395 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+18:38:01.448 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+18:38:07.549 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+18:38:07.954 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+18:38:07.955 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+18:38:09.722 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:38:09.723 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:38:09.805 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:38:09.887 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:38:10.007 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:38:10.052 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:38:31.566 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+18:38:31.683 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+18:38:31.989 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+18:38:32.064 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+18:38:32.128 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+18:38:32.212 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+18:38:32.269 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+18:38:38.378 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+18:38:38.784 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+18:38:38.784 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+18:38:40.604 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+18:38:40.605 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+18:38:40.672 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+18:38:40.997 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+18:38:41.093 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+18:38:41.153 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+18:38:41.203 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+18:38:41.776 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+19:21:46.339 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+19:21:46.498 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+19:21:46.861 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+19:21:46.949 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+19:21:47.018 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+19:21:47.092 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+19:21:47.148 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+19:21:51.248 [main] ERROR TestCases.TC_001_accountregistration - test failed
+19:21:53.696 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+19:21:53.698 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+19:21:53.849 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+19:21:54.529 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+19:21:54.643 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+19:21:54.712 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+19:21:54.809 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+19:21:55.593 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+19:23:39.655 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+19:23:39.777 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+19:23:40.132 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+19:23:40.223 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+19:23:40.282 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+19:23:40.361 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+19:23:40.416 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+19:23:46.541 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+19:23:46.989 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+19:23:46.989 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+19:23:48.792 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+19:23:48.792 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+19:23:48.855 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+19:23:49.198 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+19:23:49.302 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+19:23:49.356 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+19:23:49.411 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+19:23:50.006 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+19:25:54.138 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+19:25:54.289 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+19:25:54.610 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+19:25:54.690 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+19:25:54.743 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+19:25:54.813 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+19:25:54.877 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+19:26:00.992 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+19:26:01.422 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+19:26:01.422 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+19:26:03.572 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+19:26:03.572 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+19:26:03.637 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+19:26:03.990 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+19:26:04.089 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+19:26:04.152 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+19:26:04.202 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+19:26:04.754 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:01:08.636 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:01:08.785 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:01:09.164 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:01:09.250 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:01:09.309 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:01:09.388 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:01:09.446 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:01:15.566 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+21:01:16.090 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+21:01:16.091 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+21:01:36.462 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:01:36.465 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:01:36.896 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:01:37.578 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:01:37.854 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:01:37.974 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:01:38.088 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:01:39.163 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:06:50.485 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:06:50.664 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:06:51.228 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:06:51.380 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:06:51.538 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:06:51.703 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:06:51.798 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:06:55.979 [main] ERROR TestCases.TC_001_accountregistration - test failed
+21:06:58.426 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:06:58.428 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:06:58.580 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:06:59.001 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:06:59.155 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:06:59.229 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:06:59.311 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:07:00.238 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:12:06.576 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:12:06.716 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:12:07.237 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:12:07.363 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:12:07.475 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:12:07.620 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:12:07.704 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:12:13.838 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+21:12:33.287 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:12:33.287 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:12:33.397 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:12:33.827 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:12:33.948 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:12:34.018 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:12:34.077 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:12:34.702 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:13:22.781 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:13:22.964 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:13:23.337 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:13:23.416 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:13:23.485 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:13:23.574 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:13:23.640 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:13:29.758 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+21:13:30.183 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+21:13:30.183 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+21:13:33.196 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:13:33.196 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:13:33.267 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:13:33.610 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:13:33.708 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:13:33.767 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:13:33.818 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:13:34.421 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+21:19:19.060 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:19:19.218 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:19:19.560 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:19:19.646 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:19:19.712 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:19:19.792 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:19:19.851 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:19:23.971 [main] ERROR TestCases.TC_001_accountregistration - test failed
+21:19:27.135 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:19:27.137 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:19:27.243 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:19:27.571 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:19:27.677 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:19:27.732 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:19:27.733 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:21:02.684 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:21:02.705 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:21:02.880 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:21:21.166 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:21:21.284 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:21:21.794 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:21:21.940 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:21:22.039 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:21:22.121 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:21:22.175 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:21:28.276 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+21:21:28.716 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+21:21:28.716 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+21:22:04.570 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:22:04.587 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:22:04.695 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:25:19.178 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+21:25:19.314 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+21:25:19.701 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+21:25:19.788 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+21:25:19.859 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+21:25:19.937 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+21:25:20.005 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+21:25:26.133 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+21:25:26.539 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+21:25:26.539 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+21:25:29.814 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+21:25:29.815 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+21:25:29.901 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+21:25:30.239 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+21:25:30.365 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+21:25:30.432 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+21:25:30.493 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+21:25:31.096 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+10:54:11.553 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+10:54:11.776 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+10:54:12.229 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+10:54:12.396 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+10:54:12.489 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+10:54:12.584 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+10:54:12.682 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+10:54:16.891 [main] ERROR TestCases.TC_001_accountregistration - test failed
+10:54:19.543 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+10:54:19.544 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+10:54:19.652 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+10:54:20.084 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+10:54:20.185 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+10:54:20.251 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+10:54:20.357 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
+10:54:21.551 [main] INFO  TestCases.TC_002_loginaccount - ***Login test finished***
+14:31:52.562 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+14:32:07.610 [main] ERROR TestCases.TC_001_accountregistration - test failed
+14:32:15.709 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+14:32:15.736 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+14:32:15.737 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+14:32:30.812 [main] ERROR TestCases.TC_001_accountregistration - test failed
+14:32:36.588 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+14:32:36.589 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+10:34:09.213 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+10:34:24.265 [main] ERROR TestCases.TC_001_accountregistration - test failed
+10:34:29.910 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+10:34:29.910 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+10:35:11.869 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+10:35:12.080 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+10:35:12.638 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+10:35:12.734 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+10:35:12.800 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+10:35:12.871 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+10:35:12.925 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+10:35:19.053 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+10:35:19.675 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+10:35:19.675 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+10:35:21.698 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+10:35:21.699 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+10:35:21.767 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+10:35:22.239 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+10:39:15.670 [main] INFO  TestCases.TC_001_accountregistration - ****Starting TC_001_accountregistration***
+10:39:15.804 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on myaccount***
+10:39:16.330 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on register***
+10:39:16.468 [main] INFO  TestCases.TC_001_accountregistration - ****set first name***
+10:39:16.532 [main] INFO  TestCases.TC_001_accountregistration - *** set last name***
+10:39:16.618 [main] INFO  TestCases.TC_001_accountregistration - ****set email***
+10:39:16.673 [main] INFO  TestCases.TC_001_accountregistration - ****set password***
+10:39:22.784 [main] INFO  TestCases.TC_001_accountregistration - ****Clicked on continue***
+10:39:23.236 [main] INFO  TestCases.TC_001_accountregistration - ****account registered***
+10:39:23.237 [main] INFO  TestCases.TC_001_accountregistration - ***Finished TC_001***
+10:39:25.051 [main] INFO  TestCases.TC_002_loginaccount - ***Starting test login***
+10:39:25.051 [main] INFO  TestCases.TC_002_loginaccount - ***myaccount***
+10:39:25.110 [main] INFO  TestCases.TC_002_loginaccount - ***login***
+10:39:25.484 [main] INFO  TestCases.TC_002_loginaccount - ***set Email***
+10:39:25.592 [main] INFO  TestCases.TC_002_loginaccount - ***set password***
+10:39:25.652 [main] INFO  TestCases.TC_002_loginaccount - ***open account***
+10:39:25.713 [main] INFO  TestCases.TC_002_loginaccount - ***validationg account***
